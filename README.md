@@ -45,5 +45,5 @@
   <a href="https://instagram.com/icodelife"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
   <a href="https://twitter.com/icodelife"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="https://t.me/icodelife"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" width="30px" alt="Telegram"></a> &nbsp; &nbsp;
-  <a href="mithunsmenon@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="GMail"></a> &nbsp; &nbsp;
+  <a href="mailto:mithunsmenon@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" width="30px" alt="GMail"></a> &nbsp; &nbsp;
 </p>
