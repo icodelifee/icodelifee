@@ -8,10 +8,11 @@
 
 **Talking about Personal Stuffs:**
 
+- I do freelancing, checkout my works if you are intrested in hiring;
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" height="18px"> I Love Dart & Flutter;
-- 🌱 I’m currently learning Go and React; 
-- 👯 I’m looking to collaborate;
+- I’m currently learning Go and React; 
+- Im looking to collaborate;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
 
