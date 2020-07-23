@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning Go and React; 
 - 👯 I’m looking to collaborate;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Anything is possible <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px">;
+- ⚡️ Fun-Fact: Anything is possible;
 
 **Languages and Tools:**  
 
