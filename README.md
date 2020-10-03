@@ -1,6 +1,6 @@
 ## Hey, Im Mithun Menon <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px">
 
-<em>Hi, Im <b>Mithun Menon</b>, a 3rd year CS undergraduate from <b>[RCMAS](https://www.rajagiricollege.edu.in/)</b>, Kochi, Kerala </em></br>
+<em>A CS undergraduate from <b>[RCMAS](https://www.rajagiricollege.edu.in/)</b>, Kochi, Kerala </em></br>
 <em>A Flutter 📱, Backend Developer ☁️ and a Design Enthusiast✏️</em> \
 \
 ![](https://komarev.com/ghpvc/?username=icodelifee) \
